@@ -1,5 +1,6 @@
 # CUDA-LBM
 ### Build
-running:
-
+compile:
     nvcc CUDA-LBM.cu -o CUDA-LBM.x -lcuda
+run：
+    ./CUDA-LBM.x
