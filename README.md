@@ -1,5 +1,4 @@
 # CUDA-LBM
-CUDA Lattice Boltzmann Method
 ====================================================
 ### Build
 running:
